@@ -1,0 +1,10 @@
+[package]
+name = "the-scythe"
+version = "0.0.1"
+edition = "2024"
+description = "A small utilities crate for those with a Grim Outlook"
+license = "MIT"
+author = "Dominic Grimaldi <dominic.j.grimaldi@gmail.com>"
+
+[dependencies]
+log = "0.4.27"
